@@ -8,3 +8,7 @@ Comunicación
 **Puntualidad**
 ***Aprendizaje Rapido***
 <ins>Comunicación</ins>
+## Valores Fundamentales
+Respeto
+Amabilidad 
+Solidaridad
