@@ -4,3 +4,7 @@ Sobre porque me gusta la programación y mis puntos fuertes
 Puntualidad 
 Responsabilidad
 Comunicación 
+### Puntos fuertes
+**Puntualidad**
+***Aprendizaje Rapido***
+<ins>Comunicación</ins>
